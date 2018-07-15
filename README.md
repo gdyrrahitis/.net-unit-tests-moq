@@ -1,4 +1,6 @@
 # .net-unit-tests-moq
+
+Related blog post can be found [here](http://codereform.com/blog/post/mocking-a-class-dependency-which-casts-into-a-derived-type-using-moq/)
 Mocking entities using Moq library.
 
 ## WorkingWithInterfaceCasting.Test
